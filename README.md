@@ -1,2 +1,2 @@
 # ReactiveApi
-Simple reactive restful API using Spring WebFlux, done for studying purposes.
+Simple reactive restful API using Spring WebFlux and MongoDB, done for studying purposes.
